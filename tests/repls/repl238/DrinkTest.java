@@ -22,6 +22,7 @@ class DrinkTest {
     void setName() {
         dr.setName("fatih");
         assertEquals(dr.getName(),"fatih");
+
     }
 
     @Test

@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c006d33-9998-4359-a250-30bf3357c156" name="Default Changelist" comment="" />
+    <list default="true" id="3c006d33-9998-4359-a250-30bf3357c156" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/repls/repl239/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repls/repl239/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/repls/repl239/AnimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/repls/repl239/DogTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/ReplsUnitTest/repls/repl238/DrinkTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/ReplsUnitTest/repls/repl238/DrinkTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/repls/repl238/DrinkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/repls/repl238/DrinkTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +23,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1X3RExSXRhMuGpEpYp8CirnUVv6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,13 +42,15 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="repls.repl238.VendingMachine" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="repls.repl239" />
       <recent name="repls.repl238" />
       <recent name="repl238test" />
     </key>
@@ -42,84 +58,87 @@
       <recent name="repls.repl238" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
-      <recent name="repls.repl238.VendingMachine" />
       <recent name="" />
+      <recent name="repls.repl239.Animal" />
+      <recent name="repls.repl238.VendingMachine" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.DrinkTest">
-    <configuration name="DrinkTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.AnimalTest.setAge">
+    <configuration name="AnimalTest.getName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ReplsUnitTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="repls.repl238.*" />
+          <option name="PATTERN" value="repls.repl239.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="repls.repl238" />
-      <option name="MAIN_CLASS_NAME" value="repls.repl238.DrinkTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DrinkVendingMachineTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ReplsUnitTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="repls.repl238.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="repls.repl238" />
-      <option name="MAIN_CLASS_NAME" value="repls.repl238.DrinkVendingMachineTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DrinkVendingMachineTest.testCancel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ReplsUnitTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="repls.repl238.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="repls.repl238" />
-      <option name="MAIN_CLASS_NAME" value="repls.repl238.DrinkVendingMachineTest" />
-      <option name="METHOD_NAME" value="testCancel" />
+      <option name="PACKAGE_NAME" value="repls.repl239" />
+      <option name="MAIN_CLASS_NAME" value="repls.repl239.AnimalTest" />
+      <option name="METHOD_NAME" value="getName" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DrinkVendingMachineTest.testPay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AnimalTest.setAge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ReplsUnitTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="repls.repl238.*" />
+          <option name="PATTERN" value="repls.repl239.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="repls.repl238" />
-      <option name="MAIN_CLASS_NAME" value="repls.repl238.DrinkVendingMachineTest" />
-      <option name="METHOD_NAME" value="testPay" />
+      <option name="PACKAGE_NAME" value="repls.repl239" />
+      <option name="MAIN_CLASS_NAME" value="repls.repl239.AnimalTest" />
+      <option name="METHOD_NAME" value="setAge" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DrinkVendingMachineTest.testReturnChange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AnimalTest.setName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ReplsUnitTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="repls.repl238.*" />
+          <option name="PATTERN" value="repls.repl239.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="repls.repl238" />
-      <option name="MAIN_CLASS_NAME" value="repls.repl238.DrinkVendingMachineTest" />
-      <option name="METHOD_NAME" value="testReturnChange" />
+      <option name="PACKAGE_NAME" value="repls.repl239" />
+      <option name="MAIN_CLASS_NAME" value="repls.repl239.AnimalTest" />
+      <option name="METHOD_NAME" value="setName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DogTest.setBreed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ReplsUnitTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="repls.repl239.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="repls.repl239" />
+      <option name="MAIN_CLASS_NAME" value="repls.repl239.DogTest" />
+      <option name="METHOD_NAME" value="setBreed" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DogTest.testEquals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ReplsUnitTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="repls.repl239.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="repls.repl239" />
+      <option name="MAIN_CLASS_NAME" value="repls.repl239.DogTest" />
+      <option name="METHOD_NAME" value="testEquals" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -127,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.DrinkTest" />
-        <item itemvalue="JUnit.DrinkVendingMachineTest" />
-        <item itemvalue="JUnit.DrinkVendingMachineTest.testReturnChange" />
-        <item itemvalue="JUnit.DrinkVendingMachineTest.testCancel" />
-        <item itemvalue="JUnit.DrinkVendingMachineTest.testPay" />
+        <item itemvalue="JUnit.AnimalTest.setAge" />
+        <item itemvalue="JUnit.AnimalTest.setName" />
+        <item itemvalue="JUnit.AnimalTest.getName" />
+        <item itemvalue="JUnit.DogTest.testEquals" />
+        <item itemvalue="JUnit.DogTest.setBreed" />
       </list>
     </recent_temporary>
   </component>
@@ -149,45 +168,57 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="499" y="166" width="1406" height="814" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1580321925302">
+      <screen x="67" y="27" width="2493" height="1053" />
+    </state>
+    <state x="499" y="166" width="1406" height="814" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/67.27.2493.1053@67.27.2493.1053" timestamp="1580321925302" />
     <state x="1342" y="285" width="374" height="582" key="#com.intellij.ide.util.MemberChooser" timestamp="1580273844805">
       <screen x="67" y="27" width="2493" height="1053" />
     </state>
     <state x="1342" y="285" width="374" height="582" key="#com.intellij.ide.util.MemberChooser/67.27.2493.1053@67.27.2493.1053" timestamp="1580273844805" />
-    <state x="1262" y="354" width="524" height="451" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1580272910701">
+    <state x="1262" y="354" width="524" height="451" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1580321375239">
       <screen x="67" y="27" width="2493" height="1053" />
     </state>
-    <state x="1262" y="354" width="524" height="451" key="#com.intellij.ide.util.PackageChooserDialog/67.27.2493.1053@67.27.2493.1053" timestamp="1580272910701" />
+    <state x="1262" y="354" width="524" height="451" key="#com.intellij.ide.util.PackageChooserDialog/67.27.2493.1053@67.27.2493.1053" timestamp="1580321375239" />
+    <state x="1291" y="360" width="551" height="440" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1580321328316">
+      <screen x="67" y="27" width="2493" height="1053" />
+    </state>
+    <state x="1291" y="360" width="551" height="440" key="#com.intellij.ide.util.TreeClassChooserDialog/67.27.2493.1053@67.27.2493.1053" timestamp="1580321328316" />
     <state x="1287" y="433" width="494" height="297" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580275826051">
       <screen x="67" y="27" width="2493" height="1053" />
     </state>
     <state x="1287" y="433" width="494" height="297" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/67.27.2493.1053@67.27.2493.1053" timestamp="1580275826051" />
-    <state width="1560" height="263" key="GridCell.Tab.0.bottom" timestamp="1580276984383">
+    <state x="1317" y="331" width="424" height="491" key="FileChooserDialogImpl" timestamp="1580281102158">
       <screen x="67" y="27" width="2493" height="1053" />
     </state>
-    <state width="1560" height="263" key="GridCell.Tab.0.bottom/67.27.2493.1053@67.27.2493.1053" timestamp="1580276984383" />
-    <state width="1560" height="263" key="GridCell.Tab.0.center" timestamp="1580276984382">
+    <state x="1317" y="331" width="424" height="491" key="FileChooserDialogImpl/67.27.2493.1053@67.27.2493.1053" timestamp="1580281102158" />
+    <state width="1560" height="198" key="GridCell.Tab.0.bottom" timestamp="1580329966232">
       <screen x="67" y="27" width="2493" height="1053" />
     </state>
-    <state width="1560" height="263" key="GridCell.Tab.0.center/67.27.2493.1053@67.27.2493.1053" timestamp="1580276984382" />
-    <state width="1560" height="263" key="GridCell.Tab.0.left" timestamp="1580276984382">
+    <state width="1560" height="198" key="GridCell.Tab.0.bottom/67.27.2493.1053@67.27.2493.1053" timestamp="1580329966232" />
+    <state width="1560" height="198" key="GridCell.Tab.0.center" timestamp="1580329966232">
       <screen x="67" y="27" width="2493" height="1053" />
     </state>
-    <state width="1560" height="263" key="GridCell.Tab.0.left/67.27.2493.1053@67.27.2493.1053" timestamp="1580276984382" />
-    <state width="1560" height="263" key="GridCell.Tab.0.right" timestamp="1580276984382">
+    <state width="1560" height="198" key="GridCell.Tab.0.center/67.27.2493.1053@67.27.2493.1053" timestamp="1580329966232" />
+    <state width="1560" height="198" key="GridCell.Tab.0.left" timestamp="1580329966232">
       <screen x="67" y="27" width="2493" height="1053" />
     </state>
-    <state width="1560" height="263" key="GridCell.Tab.0.right/67.27.2493.1053@67.27.2493.1053" timestamp="1580276984382" />
-    <state x="1017" y="150" width="1024" height="852" key="SettingsEditor" timestamp="1580272866096">
+    <state width="1560" height="198" key="GridCell.Tab.0.left/67.27.2493.1053@67.27.2493.1053" timestamp="1580329966232" />
+    <state width="1560" height="198" key="GridCell.Tab.0.right" timestamp="1580329966232">
       <screen x="67" y="27" width="2493" height="1053" />
     </state>
-    <state x="1017" y="150" width="1024" height="852" key="SettingsEditor/67.27.2493.1053@67.27.2493.1053" timestamp="1580272866096" />
+    <state width="1560" height="198" key="GridCell.Tab.0.right/67.27.2493.1053@67.27.2493.1053" timestamp="1580329966232" />
+    <state x="1017" y="27" width="1350" height="1053" key="SettingsEditor" timestamp="1580280647663">
+      <screen x="67" y="27" width="2493" height="1053" />
+    </state>
+    <state x="1017" y="27" width="1350" height="1053" key="SettingsEditor/67.27.2493.1053@67.27.2493.1053" timestamp="1580280647663" />
     <state x="1206" y="469" width="646" height="224" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1580272965780">
       <screen x="67" y="27" width="2493" height="1053" />
     </state>
     <state x="1206" y="469" width="646" height="224" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/67.27.2493.1053@67.27.2493.1053" timestamp="1580272965780" />
-    <state x="1308" y="278" width="442" height="597" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580273818604">
+    <state x="1824" y="318" width="527" height="597" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580329824199">
       <screen x="67" y="27" width="2493" height="1053" />
     </state>
-    <state x="1308" y="278" width="442" height="597" key="com.intellij.testIntegration.createTest.CreateTestDialog/67.27.2493.1053@67.27.2493.1053" timestamp="1580273818604" />
+    <state x="1824" y="318" width="527" height="597" key="com.intellij.testIntegration.createTest.CreateTestDialog/67.27.2493.1053@67.27.2493.1053" timestamp="1580329824199" />
   </component>
 </project>
