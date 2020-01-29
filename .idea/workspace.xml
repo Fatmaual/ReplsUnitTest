@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c006d33-9998-4359-a250-30bf3357c156" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X3RExSXRhMuGpEpYp8CirnUVv6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="repls.repl238.VendingMachine" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="repls.repl238" />
+      <recent name="repl238test" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="repls.repl238" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="repls.repl238.VendingMachine" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DrinkTest">
+    <configuration name="DrinkTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ReplsUnitTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="repls.repl238.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="repls.repl238" />
+      <option name="MAIN_CLASS_NAME" value="repls.repl238.DrinkTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DrinkVendingMachineTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ReplsUnitTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="repls.repl238.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="repls.repl238" />
+      <option name="MAIN_CLASS_NAME" value="repls.repl238.DrinkVendingMachineTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DrinkVendingMachineTest.testCancel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ReplsUnitTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="repls.repl238.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="repls.repl238" />
+      <option name="MAIN_CLASS_NAME" value="repls.repl238.DrinkVendingMachineTest" />
+      <option name="METHOD_NAME" value="testCancel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DrinkVendingMachineTest.testPay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ReplsUnitTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="repls.repl238.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="repls.repl238" />
+      <option name="MAIN_CLASS_NAME" value="repls.repl238.DrinkVendingMachineTest" />
+      <option name="METHOD_NAME" value="testPay" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DrinkVendingMachineTest.testReturnChange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ReplsUnitTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="repls.repl238.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="repls.repl238" />
+      <option name="MAIN_CLASS_NAME" value="repls.repl238.DrinkVendingMachineTest" />
+      <option name="METHOD_NAME" value="testReturnChange" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DrinkTest" />
+        <item itemvalue="JUnit.DrinkVendingMachineTest" />
+        <item itemvalue="JUnit.DrinkVendingMachineTest.testReturnChange" />
+        <item itemvalue="JUnit.DrinkVendingMachineTest.testCancel" />
+        <item itemvalue="JUnit.DrinkVendingMachineTest.testPay" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c006d33-9998-4359-a250-30bf3357c156" name="Default Changelist" comment="" />
+      <created>1580272683909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580272683909</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1342" y="285" width="374" height="582" key="#com.intellij.ide.util.MemberChooser" timestamp="1580273844805">
+      <screen x="67" y="27" width="2493" height="1053" />
+    </state>
+    <state x="1342" y="285" width="374" height="582" key="#com.intellij.ide.util.MemberChooser/67.27.2493.1053@67.27.2493.1053" timestamp="1580273844805" />
+    <state x="1262" y="354" width="524" height="451" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1580272910701">
+      <screen x="67" y="27" width="2493" height="1053" />
+    </state>
+    <state x="1262" y="354" width="524" height="451" key="#com.intellij.ide.util.PackageChooserDialog/67.27.2493.1053@67.27.2493.1053" timestamp="1580272910701" />
+    <state x="1287" y="433" width="494" height="297" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580275826051">
+      <screen x="67" y="27" width="2493" height="1053" />
+    </state>
+    <state x="1287" y="433" width="494" height="297" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/67.27.2493.1053@67.27.2493.1053" timestamp="1580275826051" />
+    <state width="1560" height="263" key="GridCell.Tab.0.bottom" timestamp="1580276984383">
+      <screen x="67" y="27" width="2493" height="1053" />
+    </state>
+    <state width="1560" height="263" key="GridCell.Tab.0.bottom/67.27.2493.1053@67.27.2493.1053" timestamp="1580276984383" />
+    <state width="1560" height="263" key="GridCell.Tab.0.center" timestamp="1580276984382">
+      <screen x="67" y="27" width="2493" height="1053" />
+    </state>
+    <state width="1560" height="263" key="GridCell.Tab.0.center/67.27.2493.1053@67.27.2493.1053" timestamp="1580276984382" />
+    <state width="1560" height="263" key="GridCell.Tab.0.left" timestamp="1580276984382">
+      <screen x="67" y="27" width="2493" height="1053" />
+    </state>
+    <state width="1560" height="263" key="GridCell.Tab.0.left/67.27.2493.1053@67.27.2493.1053" timestamp="1580276984382" />
+    <state width="1560" height="263" key="GridCell.Tab.0.right" timestamp="1580276984382">
+      <screen x="67" y="27" width="2493" height="1053" />
+    </state>
+    <state width="1560" height="263" key="GridCell.Tab.0.right/67.27.2493.1053@67.27.2493.1053" timestamp="1580276984382" />
+    <state x="1017" y="150" width="1024" height="852" key="SettingsEditor" timestamp="1580272866096">
+      <screen x="67" y="27" width="2493" height="1053" />
+    </state>
+    <state x="1017" y="150" width="1024" height="852" key="SettingsEditor/67.27.2493.1053@67.27.2493.1053" timestamp="1580272866096" />
+    <state x="1206" y="469" width="646" height="224" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1580272965780">
+      <screen x="67" y="27" width="2493" height="1053" />
+    </state>
+    <state x="1206" y="469" width="646" height="224" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/67.27.2493.1053@67.27.2493.1053" timestamp="1580272965780" />
+    <state x="1308" y="278" width="442" height="597" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580273818604">
+      <screen x="67" y="27" width="2493" height="1053" />
+    </state>
+    <state x="1308" y="278" width="442" height="597" key="com.intellij.testIntegration.createTest.CreateTestDialog/67.27.2493.1053@67.27.2493.1053" timestamp="1580273818604" />
+  </component>
+</project>
